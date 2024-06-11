@@ -13,6 +13,7 @@
     height: 500px;
     background-color: purple;
     position: relative;
+    border-radius: 20px;
 }
 .center{
     width: 100%;
